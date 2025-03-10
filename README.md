@@ -34,7 +34,7 @@ This project is a full-stack application featuring user authentication (registra
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-node-mysql-auth.git
+   git clone https://github.com/vikramchavan888/Prevoyance-Solutions.git
    
 
 Install  Backend dependencies (as specified in package.json):
@@ -85,4 +85,23 @@ CREATE TABLE users (
   profile_picture VARCHAR(255)
 );
 
+## **Screenshots**
 
+### **1. Home Page**
+![Home Page](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634265/Screenshot_258_fufgef.png)
+
+### **2. Admin Dashboard**
+![Admin Dashboard](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634266/Screenshot_263_oeoiky.png)
+
+### **2. Add User**
+![Admin Dashboard](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634266/Screenshot_265_q4a8vt.png)
+
+### **3. SignIn/SignUp**
+![SignIn](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634266/Screenshot_260_bwbmsh.png)
+![SignUp](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634265/Screenshot_259_nwbyfg.png)
+
+### **1. Excel Upload**
+![PopUp](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634266/Screenshot_264_ctgt1t.png)
+
+### **1. Profile Page**
+![Profile Page](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634267/Screenshot_268_vdojeo.png)
