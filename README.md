@@ -65,25 +65,25 @@ Install Frontend dependencies (as specified in package.json):
 
 Create a .env file in the server folder (if not already present) and set the required environment variables. For example:
 
-PORT=3000
-JWT_KEY=your_secret_key
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_db_password
-DB_NAME=your_database_name
+-PORT=3000
+-JWT_KEY=your_secret_key
+-DB_HOST=localhost
+-DB_USER=root
+-DB_PASSWORD=your_db_password
+-DB_NAME=your_database_name
 
 
 schema:
 CREATE TABLE users (
-  id SERIAL PRIMARY KEY,
-  first_name VARCHAR(50),
-  last_name VARCHAR(50),
-  email VARCHAR(100) UNIQUE,
-  password VARCHAR(255),
-  mobile VARCHAR(15),
-  address TEXT,
-  profile_picture VARCHAR(255)
-);
+-id SERIAL PRIMARY KEY,
+  -first_name VARCHAR(50),
+  -last_name VARCHAR(50),
+  -email VARCHAR(100) UNIQUE,
+  -password VARCHAR(255),
+  -mobile VARCHAR(15),
+  -address TEXT,
+  -profile_picture VARCHAR(255)
+-);
 
 ## **Screenshots**
 
