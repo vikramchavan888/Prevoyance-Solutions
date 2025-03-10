@@ -78,7 +78,7 @@ Create a .env file in the server folder (if not already present) and set the req
 
 Run the following SQL command to create the `users` table in your database:
 
-```sql
+sql
 CREATE TABLE users (
   id SERIAL PRIMARY KEY,
   first_name VARCHAR(50),
@@ -88,10 +88,9 @@ CREATE TABLE users (
   mobile VARCHAR(15),
   address TEXT,
   profile_picture VARCHAR(255)
-);```
+);
 
-
-### **Screenshots**
+### Database Schema
 
 ### **1. Home Page**
 ![Home Page](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634265/Screenshot_258_fufgef.png)
