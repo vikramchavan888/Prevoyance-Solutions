@@ -39,27 +39,27 @@ This project is a full-stack application featuring user authentication (registra
 
 Install  Backend dependencies (as specified in package.json):
 
-bcrypt: For hashing passwords.
-cors: To enable Cross-Origin Resource Sharing.
-dotenv: To load environment variables from a .env file.
-express: The web framework.
-jsonwebtoken: For JWT-based authentication.
-multer: For handling file uploads.
-mysql2: MySQL client for Node.js.
-nodemon: For automatic server restarts during development.
-react-toastify: For showing toast notifications (used in the frontend, but installed here if shared).
-xlsx: For reading and parsing Excel files.
+- bcrypt: For hashing passwords.
+- cors: To enable Cross-Origin Resource Sharing.
+- dotenv: To load environment variables from a .env file.
+- express: The web framework.
+- jsonwebtoken: For JWT-based authentication.
+- multer: For handling file uploads.
+- mysql2: MySQL client for Node.js.
+- nodemon: For automatic server restarts during development.
+- react-toastify: For showing toast notifications (used in the frontend, but installed here if shared).
+- xlsx: For reading and parsing Excel files.
 
 
 
 Install Frontend dependencies (as specified in package.json):
 
-react and react-dom: Core React libraries.
-react-router-dom: For routing.
-axios: For making HTTP requests.
-react-toastify: For toast notifications.
-tailwindcss, postcss, autoprefixer: For styling with Tailwind CSS.
-vite: The build tool and development server.
+- react and react-dom: Core React libraries.
+- react-router-dom: For routing.
+- axios: For making HTTP requests.
+- react-toastify: For toast notifications.
+- tailwindcss, postcss, autoprefixer: For styling with Tailwind CSS.
+- vite: The build tool and development server.
 
 
 
