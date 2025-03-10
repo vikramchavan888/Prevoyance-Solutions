@@ -73,17 +73,23 @@ Create a .env file in the server folder (if not already present) and set the req
 -DB_NAME=your_database_name
 
 
-schema:
+
+### Database Schema
+
+Run the following SQL command to create the `users` table in your database:
+
+```sql
 CREATE TABLE users (
--id SERIAL PRIMARY KEY,
-  -first_name VARCHAR(50),
-  -last_name VARCHAR(50),
-  -email VARCHAR(100) UNIQUE,
-  -password VARCHAR(255),
-  -mobile VARCHAR(15),
-  -address TEXT,
-  -profile_picture VARCHAR(255)
--);
+  id SERIAL PRIMARY KEY,
+  first_name VARCHAR(50),
+  last_name VARCHAR(50),
+  email VARCHAR(100) UNIQUE,
+  password VARCHAR(255),
+  mobile VARCHAR(15),
+  address TEXT,
+  profile_picture VARCHAR(255)
+);
+
 
 ## **Screenshots**
 
