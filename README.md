@@ -94,7 +94,7 @@ CREATE TABLE users (
 ![Admin Dashboard](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634266/Screenshot_263_oeoiky.png)
 
 ### **2. Add User**
-![Admin Dashboard](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634266/Screenshot_265_q4a8vt.png)
+![Admin Dashboard](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634921/Screenshot_269_ltpzsv.png)
 
 ### **3. SignIn/SignUp**
 ![SignIn](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634266/Screenshot_260_bwbmsh.png)
