@@ -91,7 +91,7 @@ CREATE TABLE users (
 );
 
 
-## **Screenshots**
+### **Screenshots**
 
 ### **1. Home Page**
 ![Home Page](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1741634265/Screenshot_258_fufgef.png)
