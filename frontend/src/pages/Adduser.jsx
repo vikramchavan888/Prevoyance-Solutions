@@ -195,7 +195,7 @@ const Adduser = () => {
               type="submit"
               className="w-full bg-green-600 text-white py-2 rounded-lg font-medium hover:bg-green-700 transition duration-300"
             >
-              Register
+              ADD
             </button>
           </form>
         </div>{" "}
