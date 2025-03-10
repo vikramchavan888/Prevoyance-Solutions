@@ -85,12 +85,12 @@ Install Frontend dependencies (as specified in package.json):
 
 Create a .env file in the server folder (if not already present) and set the required environment variables. For example:
 
--PORT=3000
--JWT_KEY=your_secret_key
--DB_HOST=localhost
--DB_USER=root
--DB_PASSWORD=your_db_password
--DB_NAME=your_database_name
+- PORT=3000
+- JWT_KEY=your_secret_key
+- DB_HOST=localhost
+- DB_USER=root
+- DB_PASSWORD=your_db_password
+- DB_NAME=your_database_name
 
 
 
