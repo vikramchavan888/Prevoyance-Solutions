@@ -88,7 +88,7 @@ CREATE TABLE users (
   mobile VARCHAR(15),
   address TEXT,
   profile_picture VARCHAR(255)
-);
+);```
 
 
 ### **Screenshots**
